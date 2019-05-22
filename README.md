@@ -1,3 +1,5 @@
-npm install -g expo-cli
-npm install
-expo start
+npm install -g expo-cli\
+npm install\
+expo start\
+
+
